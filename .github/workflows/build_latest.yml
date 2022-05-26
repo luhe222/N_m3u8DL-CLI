@@ -1,6 +1,6 @@
 name: Build_Latest
  
-on: [push]
+on: push
  
 jobs:
   build:
